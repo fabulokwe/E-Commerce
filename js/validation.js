@@ -16,6 +16,5 @@ function validateForm() {
         alert("Please enter a valid email address");
         return false;
     }
-
     return true;
 }
